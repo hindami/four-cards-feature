@@ -1,4 +1,4 @@
-# four-cards-feature
+# Four Cards Feature Section Master
 
 Challenge from frontendmentor.io
 
