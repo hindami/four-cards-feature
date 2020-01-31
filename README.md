@@ -6,5 +6,5 @@ Four Cards Feature Section Master
 
 level : Newbie
 
-live web: https://hindami.github.io/four-cards-feature/
+Live Site: https://hindami.github.io/four-cards-feature/
 
